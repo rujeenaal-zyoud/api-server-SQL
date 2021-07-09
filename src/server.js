@@ -24,8 +24,8 @@ app.use(express.json());
 app.use(morgan('combined'));
 app.use(cors());
 //the routes
-// app.use('/api/v1/food',foodRouter);
-// app.use('/api/v1/clothes',clothesRouter);
+ app.use('/api/v1/food',foodRouter);
+ app.use('/api/v1/clothes',clothesRouter);
 
 
 
