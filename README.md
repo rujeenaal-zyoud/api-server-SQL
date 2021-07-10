@@ -21,13 +21,13 @@ So by creating CRUD with REST API create to route with two models and create the
 
 
 
-[deployed the server](https://api-foodclothes-server.herokuapp.com/)
+[deployed the server](https://sql-api-rujeena.herokuapp.com/)
 
 
-[ Github Actions](https://github.com/rujeenaal-zyoud/api-server/actions/workflows/node.js.yml)
+[ Github Actions](https://github.com/rujeenaal-zyoud/api-server-SQL/actions)
 
 
-[PR](https://github.com/rujeenaal-zyoud/api-server/pull/2)
+[PR](https://github.com/rujeenaal-zyoud/api-server-SQL/pulls?q=is%3Apr+is%3Aclosed)
 
 ---------------------------------------------
 ### UML
